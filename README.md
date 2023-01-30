@@ -1,9 +1,9 @@
 ## Cách đặt tên file 
 
-`VinaseedDaiLy.ipa`
+`DongLucDaiLy.ipa`
 
-`VinaseedDaiLy.apk`
+`DongLucDaiLy.apk`
 
-`VinaseedNhanVien.apk`
+`DongLucNhanVien.apk`
 
-`VinaseedNhanVien.ipa`
+`DongLucNhanVien.ipa`
