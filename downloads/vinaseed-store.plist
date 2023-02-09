@@ -17,13 +17,13 @@
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://dongluc-apps.truesight.asia/downloads/images/57.png</string>
+                        <string>https://dms.dongluc.vn/downloads/images/57.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://dongluc-apps.truesight.asia/downloads/images/512.png</string>
+                        <string>https://dms.dongluc.vn/downloads/images/512.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
