@@ -16,13 +16,12 @@ categories: jekyll update
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://dms.dongluc.vn/downloads/vinaseed-staff.plist">
+<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://truesight-team.github.io/dongluc-apps/vinaseed-staff.plist">
   iOS
 </a>
 </div>
 
 ## App Đại lý
-
 
 <div class="d-flex justify-content-center">
 <a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/dongluc-apps/releases/download/dev/DongLucDaiLy.apk">
