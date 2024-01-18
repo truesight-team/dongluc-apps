@@ -20,15 +20,3 @@ categories: jekyll update
   iOS
 </a>
 </div>
-
-## App Đại lý
-
-<div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/truesight-team/dongluc-apps/releases/download/dev/DongLucDaiLy.apk">
-  Android
-</a>
-
-<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://dms.dongluc.vn/downloads/vinaseed-store.plist">
-  iOS
-</a>
-</div>
