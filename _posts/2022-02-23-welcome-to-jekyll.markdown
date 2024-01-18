@@ -16,7 +16,7 @@ categories: jekyll update
   Android
 </a>
 
-<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://truesight-team.github.io/dongluc-apps/vinaseed-staff.plist">
+<a role="button" class="btn btn-primary mx-2 my-4" href="itms-services:///?action=download-manifest&url=https://truesight-team.github.io/dongluc-apps/downloads/vinaseed-staff.plist">
   iOS
 </a>
 </div>
